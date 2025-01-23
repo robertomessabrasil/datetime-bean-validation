@@ -1,11 +1,11 @@
 # datetime-bean-validation
 Maven dependency with Bean Validation for datetime, date and time
 
-# how to use
+# How to use
 Get the current version from maven central and use it in your POM
 [https://central.sonatype.com/artifact/io.github.robertomessabrasil/datetime-bean-validation](https://central.sonatype.com/artifact/io.github.robertomessabrasil/datetime-bean-validation)
 
-# usage
+# Examples
 To validate date and time
 ```
 public record InputRecord(
